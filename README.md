@@ -1,2 +1,2 @@
 # DS_projects
-Place for my Data Science projects
+Repository for my Data Science projects
