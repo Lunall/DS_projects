@@ -6,11 +6,9 @@
 
 - ## EDA Исследовательский анализ данных
   
-  - [Определение перспективного тарифа для телеком компании](DS_Project_3_Telecom) | Работая в компании сотового оператора «ВодаФон», вам как аналитику поступила задача: понять, какой тариф приносит больше денег. 
+  - [Определение перспективного тарифа для телеком компании](DS_Project_3_Telecom) | Работая в компании сотового оператора «ВодаФон», вам как аналитику поступила задача: понять, какой тариф приносит больше денег.  Используемые библиотеки:
   
-    Используемые библиотеки:
-  
-     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />  <img src="https://coderlessons.com/wp-content/uploads/2019/07/matplotlib_image.jpg" alt=":matpltlib:" width="" height="30" /> <img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="" height="44" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />&nbsp;  <img src="https://coderlessons.com/wp-content/uploads/2019/07/matplotlib_image.jpg" alt=":matpltlib:" width="" height="26" />&nbsp; <img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="" height="44" />
   
   - [Предсказание популярности игр и игровых платформ](DS_Project_4_Gaming_platforms) | Вы аналитик в магазине "Bombastic Games" и продаете игры по всему миру. На носу 2017 год и вашей команде поступил запрос: необходимо предсказать что будет популярно в следующем году чтобы спланировать рекламные компании. 
   
@@ -22,7 +20,7 @@
 
   - [Рекомендация тарифов](DS_Project_5_Telecom_recommend) | Вы продолжаете работать в компании сотового оператора «ВодаФон». Вам предстоит проанализировать поведение клиента и на его основе предложить рекомендуемый тариф. 
 
-     <img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="52" height="" />  <img src="https://coderlessons.com/wp-content/uploads/2019/07/matplotlib_image.jpg" alt=":matpltlib:" width="" height="30" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />
+     <img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="52" height="" />  <img src="https://coderlessons.com/wp-content/uploads/2019/07/matplotlib_image.jpg" alt=":matpltlib:" width="" height="26" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />
 
   - [Предсказание ухода клиента (kaggle.com)](DS_Project_6_Churn_prediction) | Cоревнование на `kaggle`. По обезличенным данным о клиентах и их поведении необходимо предсказать уход клиентов из крупного европейского банка.  *<img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="52" height="" />* <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" /> <img src="https://avatars.githubusercontent.com/u/26600384?s=200&v=4" alt=":pactools:" width="" height="26" />*pactools* 
 
