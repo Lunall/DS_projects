@@ -47,7 +47,7 @@
     
   - [Определение стоимости автомобилей](DS_Project_10_Price_recommend_LGBM) | Платформа по продаже автомобилей "AB-и-ТО" хочет предоставить возможность своим клиентам быстро узнать рыночную стоимость своего автомобиля. 
   
-     <img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="52" height="" />&nbsp;  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt=":seaborn:" width="" height="30" /> &nbsp;  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" alt=":LightGBM:" width="" height="24" />
+     <img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="" height="45" />&nbsp; &nbsp;  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt=":seaborn:" width="" height="30" /> &nbsp;  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" alt=":LightGBM:" width="" height="24" />
 
 
 
