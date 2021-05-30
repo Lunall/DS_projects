@@ -1,8 +1,15 @@
+**[EDA](#EDA Исследовательский анализ данных)** |
+**[ML в бизнесе](#Машинное обучение в бизнесе)** |
+**[Линейная алгебра](#Линейная алгебра и численные методы)** |
+**[Контакты](#Контакты)**
+
 # DS_projects
 
 Добро пожаловать в мой открытый репозиторий **Data Science Projects!**
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science". 
+
+Все проекты проходили код-rewiew от практикующих специалистов по data science, поэтому код чистый и логичный.
 
 - ## EDA Исследовательский анализ данных
   
@@ -37,10 +44,16 @@
   - [Шифрование данных и ML модели](DS_Project_9_Data_encryption) | Наша компания озаботилась защитой данных при использовании моделей машинного обучения. Необходимо предложить такой алгоритм защититы данных, при котором конечное качество моделей машинного обучения не ухудшится.
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt=":numpy:" width="" height="40" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />&nbsp; <img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="52" height="" />  
+    
+  - [Определение стоимости автомобилей](DS_Project_10_Price_recommend_LGBM) | Платформа по продаже автомобилей "AB-и-ТО" хочет предоставить возможность своим клиентам быстро узнать рыночную стоимость своего автомобиля. 
+  
+     <img src="https://emoji.slack-edge.com/T040HKJE3/sklearn/a7d005b31d981059.png" alt=":sklearn:" width="52" height="" />  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt=":seaborn:" width="" height="30" />  <img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" alt=":LightGBM:" width="" height="24" />
 
 
 
 
+
+##### Контакты
 
 Алексей Марков
 
