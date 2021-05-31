@@ -12,17 +12,21 @@
 Все проекты проходили ***код-review*** от практикующих специалистов по data science, поэтому код чистый и логичный.
 
 - ## EDA Исследовательский анализ данных
-  
-  - [Определение перспективного тарифа для телеком компании](DS_Project_3_Telecom) | Работая в компании сотового оператора «ВодаФон», вам как аналитику поступила задача: понять, какой тариф приносит больше денег.  Используемые библиотеки:
-  
+
+  - [Исследование объявлений о продаже квартир](DS_Project_2_Apartments) | Онлайн сервис по продаже недвижимости в Санкт-Петербурге хочет построить систему для отслеживания аномалий и мошеннической деятельности при продаже квартир.  Используемые библиотеки:
+
+     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />&nbsp;  <img src="https://coderlessons.com/wp-content/uploads/2019/07/matplotlib_image.jpg" alt=":matpltlib:" width="" height="26" />&nbsp; <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt=":seaborn:" width="" height="30" />
+
+  - [Определение перспективного тарифа для телеком компании](DS_Project_3_Telecom) | Работая в компании сотового оператора «ВодаФон», вам как аналитику поступила задача: понять, какой тариф приносит больше денег.
+
      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />&nbsp;  <img src="https://coderlessons.com/wp-content/uploads/2019/07/matplotlib_image.jpg" alt=":matpltlib:" width="" height="26" />&nbsp; <img src="https://i1.wp.com/sthua.edu.sg/wp-content/uploads/2019/07/scipy1.png?w=672&ssl=1" alt=":SciPy:" width="" height="28" />
-  
+
   - [Предсказание популярности игр и игровых платформ](DS_Project_4_Gaming_platforms) | Вы аналитик в магазине "Bombastic Games" и продаете игры по всему миру. На носу 2017 год и вашей команде поступил запрос: необходимо предсказать что будет популярно в следующем году чтобы спланировать рекламные компании. 
-  
+
      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt=":seaborn:" width="" height="30" />&nbsp; <img src="https://i1.wp.com/sthua.edu.sg/wp-content/uploads/2019/07/scipy1.png?w=672&ssl=1" alt=":SciPy:" width="" height="28" /> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" /> &nbsp;<img src="https://dill.readthedocs.io/en/latest/_static/pathos.png" alt=":dill:" width="" height="32" />*dill* 
-  
+
     
-  
+
 - ## Машинное обучение в бизнесе
 
   - [Рекомендация тарифов](DS_Project_5_Telecom_recommend) | Вы продолжаете работать в компании сотового оператора «ВодаФон». Вам предстоит проанализировать поведение клиента и на его основе предложить рекомендуемый тариф. 
