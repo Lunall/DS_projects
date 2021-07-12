@@ -74,7 +74,7 @@
 
   - [Анализ авиарейсов и моделей самолетов](DS_Project_13_Flights_SQL) | Авиакомпания Greenline организует пассажирские авиаперелёты. Вам как аналитику необходимо выявить предпочтения её пользователей, покупающих билеты на разные направления.
 
-    <img src="https://www.machinelearningmastery.ru/img/0-429549-3593.png" alt=":pyspark:" width="" height="38" /> &nbsp; <img src="https://media.proglib.io/wp-uploads/2019/07/plotly.png" alt=":plotly:" width="" height="41" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />
+    <img src="https://www.machinelearningmastery.ru/img/0-429549-3593.png" alt=":pyspark:" width="" height="38" /> &nbsp; <img src="https://blog.f1000.com/wp-content/uploads/2017/07/logo.png" width="" height="35" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />
 
 - ## Компьютерное зрение
 
