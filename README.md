@@ -74,13 +74,15 @@
 
   - [Анализ авиарейсов и моделей самолетов](DS_Project_13_Flights_SQL) | Авиакомпания Greenline организует пассажирские авиаперелёты. Вам как аналитику необходимо выявить предпочтения её пользователей, покупающих билеты на разные направления.
 
+    <img src="https://www.machinelearningmastery.ru/img/0-429549-3593.png" alt=":pyspark:" width="" height="38" /> &nbsp; <img src="https://media.proglib.io/wp-uploads/2019/07/plotly.png" alt=":plotly:" width="" height="40" /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt=":pandas:" width="" height="36" />
+
 - ## Компьютерное зрение
 
   - [Распознавание возраста покупателей](DS_Project_14_ResNet_Age_Detection) | Сеть торговых центров Ultra Mall хочет дополнить свою систему видеонаблюдения технологией компьютерного зрения. Нужно построить модель, которая по фотографии определит приблизительный возраст человека. 
 
     В основе построенной сети лежала остаточная CNN **ResNet50** с весами, полученными на датасете `ImageNet`. Она позволила добиться точности MAE в 6 лет.
-
-
+    
+     
 
 ##### Контакты
 
